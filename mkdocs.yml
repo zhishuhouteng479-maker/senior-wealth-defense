@@ -1,0 +1,6 @@
+﻿site_name: シニア・ウェルスディフェンス
+site_description: 終活・リバースモーゲージ・法的防衛
+theme:
+  name: material
+  palette:
+    primary: brown
